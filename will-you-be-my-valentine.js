@@ -21,8 +21,8 @@ function rejectLove() {
 
 function acceptLove() {
     document.getElementById("valentine").innerHTML = `
-        <img src="https://media1.tenor.com/m/EOCZQr9ke0EAAAAd/milk-and-mocha-milk-and-mocha-bear.gif" class="gif">
-        <div class="question">CIHUUYYYYY I LOVE YOU SO MUCH MY LITTLE GIRL❤️</div>
+        <img src="https://media.tenor.com/SKemqFwFj-AAAAAi/1.gif" class="gif">
+        <div class="question">YEAAAAAAAAAAAAYYY I LOVE YOU SO MUCH❤️❤️❤️ I'M SO SHOORRRYYYYY TELAT UCAPIN 😊😊😊</div>
     `;
     launchConfetti();
     startHeartRain();
